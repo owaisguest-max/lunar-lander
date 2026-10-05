@@ -1,0 +1,8 @@
+=== Random Agent Baseline Summary (LunarLander-v3) ===
+Episodes run:            100
+Average reward:          -178.26
+Std dev of reward:       100.79
+Min / Max reward:        -498.28 / -4.40
+Average episode length:  92.5 steps
+Crash rate:              100.0%
+Successful landing rate: 0.0%

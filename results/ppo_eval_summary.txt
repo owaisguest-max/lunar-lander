@@ -1,0 +1,7 @@
+=== Formal Evaluation Summary (PPO, LunarLander-v3) ===
+Episodes evaluated:      100
+Average reward:          142.52
+Std dev of reward:       66.40
+Min / Max reward:        32.64 / 263.46
+Average episode length:  828.8 steps
+Landing success rate:    27.0%

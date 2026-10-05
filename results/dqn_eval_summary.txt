@@ -1,0 +1,7 @@
+=== Formal Evaluation Summary (DQN, LunarLander-v3) ===
+Episodes evaluated:      100
+Average reward:          93.92
+Std dev of reward:       95.73
+Min / Max reward:        -52.60 / 308.34
+Average episode length:  363.9 steps
+Landing success rate:    17.0%

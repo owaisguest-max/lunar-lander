@@ -1,0 +1,7 @@
+gymnasium[box2d]>=0.29
+stable-baselines3>=2.0
+tensorboard
+matplotlib
+numpy
+imageio
+imageio-ffmpeg
